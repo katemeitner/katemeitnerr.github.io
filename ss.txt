@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>
+Моя домашняя страница
+</title>
+<link href="https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+<style>
+body, html {
+paddng: 0px;
+margin: 0px;
+}
+body {  
+background: linear-gradient(to top, #8e317f, #f296e2); 
+
+color: white;
+text-shadow: 1px 1px 2px black, 0 0 25px pink, 0 0 5px pink;
+font-family: 'Vollkorn', sans-serif;
+font-size: 23px;
+font-weight: 100;
+}
+#top { 
+background-image: url(cip.jpg);
+background-size: cover;
+background-position: top;
+height: 550px;
+position: relative;
+}
+#top2{
+position: absolute;
+display: block;
+top: 450px;
+left: 0px;
+right: 0px;
+font-size: 50px;
+text-align: center;
+font-weight: 100;
+filter: brightness(2);
+}
+<center>Для тех, кто меня ещё не знает, как я выгляжу, - моя
+фотография</center>
+<p></p>
+<div style="text-align: center;">
+</div>
+}
+</style>
+</head>
+<body>
+<div id="top"></div>
+<span id="top2">Приветствую на моей домашней странице!</span>
+<div class="content">
+<center><h2>
+Надеюсь, Вам будет не скучно...
+</h2></center>
+</div>
+<center>
+Позвольте представиться: меня зовут
+<b><i>
+Катя Потешкина
+</b></i> <p> Я люблю
+<b> Фантастику, компьютеры и музыку в стиле Black Metal.</p>
+</b> Терпеть не могу
+<b> РЭП и хомячков.
+<center/>
+</b>
+</div>
+<h2><center> Для тех, кто еще не знает, как я выгляжу, - моя фотография:
+<center><img style="width: 280px; height: 350px;" alt="" src="in.jpg"><img style="width: 280px; height: 350px;" alt="" src="beyonce.gif"></center>
+</h2></center>
+<div class="photos"> </div>
+<div class="content">
+Можете попробовать поискать информацию обо мне на 
+<a href="http://www.yahoo.com">Яндексе.</a>
+<div class="content"> <center>
+<center> И напишите мне письмо на
+<p><a href="mailto:katemeitner@mail.ru">katemeitner@mail.ru
+</a> , что у Вас вышло</p>
+</center>
+</center> </div>
+<center>
+<a href="ss.html">| 1 |</a>
+
+<a href="obzor.html"> 2 |</a>
+<a href="putev.html"> 3 |</a>
+</center>
+
+</body>
+</html>

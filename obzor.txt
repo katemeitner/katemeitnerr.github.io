@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> Понятия «жаргон» и «сленг» в лингвистике</title>
+
+<link href="https://fonts.googleapis.com/css?family=Vollkorn:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+<style>
+color: white;
+font-family: 'Vollkorn', sans-serif;
+font-size: 23px;
+font-weight: 100;
+}
+body, html {
+paddng: 0px;
+margin: 0px;
+}
+body {  
+background: linear-gradient(to top, #8e317f, #f296e2); 
+</style>
+<body>
+<p>Понятия «жаргон» и «сленг» в лингвистике</p>
+
+<p>Жаргон – это речь какой-либо социальной или профессиональной группы людей, содержащая много искусственных, иногда условных слов и выражений, отражающих вкусы и потребности данной группы. Социальный жаргон впервые возник в XVII веке у дворян.</p>
+<p>Сленг – это тот же жаргон, но при этом он может выходить за пределы социальных и профессиональных групп и используется людьми для обозначения экспрессии. В английской лексикографии термин «сленг» получил широкое распространение приблизительно в начале XIX века.</p>
+  <p>1.Жаргон</p>
+  <p>1.1. <a href="http://mirznanii.com/a/269678/argo-zhargon">Арго как вид жаргона</a></p>
+  <p>1.2. <a href="https://www.syl.ru/article/363665/jargon---primeryi-osobennosti-upotrebleniya-i-vidyi">Примеры других жаргонов</a></p>
+  <p>2.Отличие сленга от жаргона</p>
+  <p> 2. <a href="https://thedifference.ru/chem-otlichaetsya-zhargon-ot-slenga/">Сленг и жаргон, их отличия</a></p>
+  <p>3.Сленг</p>
+  <p>3.1. <a href="http://lingvotech.com/sleng">Сленг как явление в современной лингвистике</a></p>
+  <p>3.2. <a href="http://www.lingvaflavor.com/amerikanskiy-sleng-top-10-populyarnyih-slov/">Американский сленг</a></p>
+  <p>Интернет-сленг</p>
+  <p>4.1. <a href="http://www.wikireality.ru/wiki/Интернет-сленг">Общие сведения и история появления</a></p>
+  <p>4.2. <a href="https://www.proacton.ru/about-internet/terms-glossary">Словарь интернет-сленга</a></p>
+
+  <a href="ss.html"> | 1 |</a>
+  <a href="obzor.html"> 2 |</a>
+  <a href="putev.html"> 3 |</a>
+ </body>
+</html>
